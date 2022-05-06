@@ -18,3 +18,5 @@ HTML, CSS , JAVASCRIPT
 ## deployed link
 https://brynnke.github.io/work-day-sched/
 
+# contributer
+Brynn K 2022
