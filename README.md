@@ -10,7 +10,7 @@ My commits are not very on discriptive as I am/was still figuring out what to wr
 This is a webpage to display a scheulde from 8am to 5pm and save it to your computer. On the webpage you can see what you have set up for the day. Along with using it as a place to see what tasks you have for the day. This page was developing using JAVASCRIPT and basic coding structure. 
 
 ## SCREENSHOT 
-
+https://github.com/brynnke/work-day-sched/blob/main/Screen%20Shot%202022-05-05%20at%209.58.03%20PM.png
 
 ## Code
 HTML, CSS , JAVASCRIPT
